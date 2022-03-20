@@ -17,6 +17,6 @@
 ### App Walkthough GIF
 `
 https://imgur.com/dPXCeZO
-
+ Gif is in Link 
 
 
